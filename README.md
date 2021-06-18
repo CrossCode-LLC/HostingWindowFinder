@@ -1,3 +1,3 @@
 # HostingWindowFinder
 
-A description of this package.
+Simple view representable that allows you to get the app window from within swiftui land.
